@@ -106,7 +106,7 @@ const nombresDeJuegos = {
     92: "Metroid Prime",
     93: "FTL: Faster Than Light",
     94: "Diablo II",
-    95: "aper Mario: The Thousand-Year Door",
+    95: "paper Mario: The Thousand-Year Door",
     96: "Transistor",
     97: "Marvel's Spider-Man: Miles Morales",
     98: "Final Fantasy VIII",
